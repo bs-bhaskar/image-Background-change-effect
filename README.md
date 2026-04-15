@@ -1,7 +1,7 @@
 # 🎨 Image Background Change Effect
 
 ## 🚀 Live Demo
-👉 [View Live Project](YOUR_LIVE_LINK_HERE)
+👉 [View Live Project](https://image-background-change-effect-sand.vercel.app/)
 
 ## 📌 Description
 This project creates a cool image comparison effect where users can slide across the image to reveal the original and edited versions. Built using pure HTML, CSS, and JavaScript.
