@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Comparison Slider</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--  -->
+    <div class="container"><!-- Full page wrapper -->
+        <div class="img-box">
+            <img src="background_change_img/transparent.png" width="100%"><!-- transperent image for bacground (base layer) -->
+            <div class="img-wrap"><!-- overlay container(jo slide hoga) -->
+                <img src="background_change_img/original.jpg" id="originalImg"><!-- Original image -->
+            </div>
+
+            <span id="line"><!-- vertical slider line -->
+                <img src="background_change_img/arrow.png" class="arrow"><!-- Visual indicator -->
+            </span>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
